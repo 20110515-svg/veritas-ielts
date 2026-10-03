@@ -1,0 +1,1105 @@
+{
+  "testMetadata": {
+    "testId": "IELTS-ACAD-2026-COMPLETE-01",
+    "title": "Official IELTS Academic Full Mock Examination 2026",
+    "category": "academic",
+    "version": "4.2.0",
+    "administeredBy": "VERITAS Assessment Systems & Cambridge ESOL Standards",
+    "totalDurationMinutes": 164
+  },
+  "listeningSection": {
+    "section": "listening",
+    "totalQuestions": 40,
+    "durationMinutes": 30,
+    "transferTimeMinutes": 10,
+    "parts": [
+      {
+        "partNumber": 1,
+        "title": "Part 1: University Accommodation and Tenancy Registration",
+        "context": "A conversation between an international postgraduate student and a university housing officer.",
+        "wordCount": 465,
+        "audioTranscript": "[00:00] Officer: Good morning, Campus Living and Accommodation Services. My name is Gregory. How may I assist you today?\n[00:06] Student: Good morning, Gregory. I'm calling to finalize my residential registration for the upcoming academic session. I received my conditional room allocation notice, but I need to confirm specific lease conditions and update my personal records.\n[00:19] Officer: Certainly. Let me pull up your student file on the central registry. Could you state your full name and student identification reference?\n[00:27] Student: Yes, my surname is Lin, spelled L-I-N, and my given name is Maya. My registration ID is ST-8492.\n[00:36] Officer: Thank you, Maya. Yes, here it is: ST-8492. You have been provisionally assigned to Oakwood Court, located on the North Campus precinct.\n[00:47] Student: That's wonderful. Could you confirm which specific room type has been designated? I requested a self-contained studio or an en-suite single.\n[00:56] Officer: Your allocation is for an en-suite single room in Block C. You will have a private bathroom with a shower and toilet, while the kitchen and dining lounge are shared between four postgraduate residents.\n[01:08] Student: That sounds ideal for my architectural design studies. What about utility charges and internet connectivity? Are they incorporated into the base monthly rate?\n[01:18] Officer: Yes, unlimited fiber-optic broadband, water, and central heating are fully inclusive in the £620 monthly fee. However, please note that electricity usage exceeding £45 per quarter is billed separately.\n[01:33] Student: Understood. And regarding laundry facilities on the premises?\n[01:37] Officer: There is a 24-hour laundry pavilion on the ground level of Block B. Access is managed via an electronic smartcard. You will need to provide an initial refundable deposit of £15 to activate the card at reception.\n[01:52] Student: That is very reasonable. When do official move-in arrivals commence for autumn postgraduates?\n[01:58] Officer: The keys can be collected starting from September 18th. If you arrive prior to that date, you will need to arrange temporary guest housing.\n[02:08] Student: September 18th matches my flight schedule perfectly. Is there a designated storage area for personal bicycles?\n[02:15] Officer: Yes, there is a secure, CCTV-monitored bicycle shed located immediately adjacent to the West Gate. You must register the frame serial number with campus security to receive an electronic gate fob.\n[02:29] Student: Excellent. Finally, what emergency contact number should I log on the tenancy agreement?\n[02:35] Officer: Please provide the international landline or mobile of an immediate family member. Let me take down your guardian's contact details right now...\n[02:44] Student: It is plus 44, 7700, 900382.\n[02:51] Officer: +44 7700 900382 recorded. And what is your emergency contact's relation to you?\n[02:58] Student: That is my uncle, Arthur Lin.\n[03:02] Officer: Wonderful. I will dispatch the formal contractual pack to your university email address within twenty-four hours.\n[03:09] Student: Thank you so much for your assistance, Gregory. Have a pleasant day.\n[03:13] Officer: You too, Maya. Goodbye.",
+        "questions": [
+          {
+            "id": 1,
+            "kind": "note_completion",
+            "instruction": "Complete the notes below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer.",
+            "prompt": "Candidate Student ID Reference: ST-_______",
+            "correctAnswer": "8492",
+            "explanation": "Maya clearly states her student identification reference is ST-8492 at [00:36].",
+            "evidenceQuote": "My registration ID is ST-8492."
+          },
+          {
+            "id": 2,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Residential Complex Allocated: Oakwood Court, _______ Campus precinct.",
+            "correctAnswer": "North",
+            "explanation": "The housing officer specifies that Oakwood Court is located on the North Campus precinct at [00:36].",
+            "evidenceQuote": "Oakwood Court, located on the North Campus precinct."
+          },
+          {
+            "id": 3,
+            "kind": "note_completion",
+            "instruction": "Write NO MORE THAN TWO WORDS.",
+            "prompt": "Room Classification: _______ single with private bathroom.",
+            "correctAnswer": "en-suite",
+            "explanation": "Officer confirms her allocation is for an en-suite single room in Block C at [00:56].",
+            "evidenceQuote": "allocation is for an en-suite single room in Block C"
+          },
+          {
+            "id": 4,
+            "kind": "note_completion",
+            "instruction": "Write ONE NUMBER ONLY.",
+            "prompt": "Inclusive Base Monthly Rental: £_______",
+            "correctAnswer": "620",
+            "explanation": "Gregory states: 'are fully inclusive in the £620 monthly fee' at [01:18].",
+            "evidenceQuote": "inclusive in the £620 monthly fee."
+          },
+          {
+            "id": 5,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Additional charge incurred if quarterly _______ consumption exceeds £45.",
+            "correctAnswer": "electricity",
+            "explanation": "The officer notes: 'electricity usage exceeding £45 per quarter is billed separately' at [01:18].",
+            "evidenceQuote": "electricity usage exceeding £45 per quarter is billed separately."
+          },
+          {
+            "id": 6,
+            "kind": "note_completion",
+            "instruction": "Write ONE NUMBER ONLY.",
+            "prompt": "Refundable electronic laundry card activation deposit: £_______",
+            "correctAnswer": "15",
+            "explanation": "The deposit required to activate the smartcard at reception is £15 at [01:37].",
+            "evidenceQuote": "refundable deposit of £15 to activate the card"
+          },
+          {
+            "id": 7,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD AND A NUMBER.",
+            "prompt": "Earliest date for postgraduate room key collection: _______",
+            "correctAnswer": "September 18th",
+            "explanation": "Officer informs that keys can be collected starting from September 18th at [01:58].",
+            "evidenceQuote": "keys can be collected starting from September 18th."
+          },
+          {
+            "id": 8,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Bicycle storage facility is situated adjacent to the _______ Gate.",
+            "correctAnswer": "West",
+            "explanation": "Gregory clarifies that the shed is located immediately adjacent to the West Gate at [02:15].",
+            "evidenceQuote": "immediately adjacent to the West Gate."
+          },
+          {
+            "id": 9,
+            "kind": "note_completion",
+            "instruction": "Write ONE NUMBER ONLY.",
+            "prompt": "Emergency Contact Telephone Number: 07700 _______",
+            "correctAnswer": "900382",
+            "explanation": "The student gives the UK emergency number 07700 900382 at [02:44].",
+            "evidenceQuote": "plus 44, 7700, 900382."
+          },
+          {
+            "id": 10,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Relationship of nominated emergency guardian: _______",
+            "correctAnswer": "uncle",
+            "explanation": "Maya states the contact is her uncle, Arthur Lin at [02:58].",
+            "evidenceQuote": "That is my uncle, Arthur Lin."
+          }
+        ]
+      },
+      {
+        "partNumber": 2,
+        "title": "Part 2: Orientation Briefing at the Silver Sands Marine Reserve",
+        "context": "A talk by the head conservation warden to a group of newly recruited community volunteers.",
+        "wordCount": 480,
+        "audioTranscript": "[03:30] Warden: Good morning, ladies and gentlemen, and welcome to the Silver Sands Coastal and Marine Sanctuary volunteer induction. I am Dr. Alistair Vance, the senior environmental steward. Over the next six months, your contribution will be instrumental in preserving our fragile intertidal ecosystems. Before we distribute your field monitoring kits, allow me to outline our territorial zoning and seasonal biosecurity rules.\n[03:56] The reserve encompasses four distinct sectors stretching across seven miles of littoral shoreline. The North Lagoon, designated as Sector Alpha, is our primary scientific sanctuary. From March 1st through to July 31st, public access and recreational kayaking are strictly prohibited because this zone supports the nesting colonies of the roseate tern, an endangered migratory seabird. Volunteers entering Sector Alpha must wear sanitized overshoes to prevent introducing fungal spores.\n[04:32] Moving to the Central Dunes, this area features our newly renovated visitors' center and the solar-powered meteorological observatory. All volunteers will muster here at 08:30 every morning for the daily briefing. The dunes are highly vulnerable to coastal erosion. For this reason, foot traffic is confined exclusively to the elevated timber boardwalks. Walking directly upon the marram grass is a prosecutable offense, as the root networks alone prevent the sand banks from disintegrating during winter gales.\n[05:07] The South Shingle Spit is where we carry out marine litter audits and cetacean surveys. Because of hazardous tidal surges around Dead Man’s Reef, nobody is permitted on the outer spit within two hours of high water. You will each be issued a laminated tide table and a VHF maritime radio tuned to Channel 16.\n[05:31] Now, concerning equipment maintenance. When you return from sampling expeditions, your pH sensors and refractometers must be rinsed with distilled water, which is stored in the blue carboys in Workshop 3. Under no circumstances should municipal tap water be utilized, as its high mineral content calcifies the delicate optical lenses.\n[05:54] In the event of discovering a stranded marine mammal, such as a harbor seal pup or harbor porpoise, the protocol is unequivocal: do not touch the animal or attempt to shepherd it back into the sea. Immediately erect a 30-meter perimeter cordon using the reflective stanchions, and phone the veterinary rapid response unit on emergency speed-dial 4. Crowding causes catastrophic cardiovascular distress in cetaceans.\n[06:23] Let us now inspect the sector orientation chart on the projection display...",
+        "questions": [
+          {
+            "id": 11,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "Public access to the North Lagoon is restricted between March and July because:",
+            "options": [
+              "A) Toxic algal blooms contaminate the shoreline.",
+              "B) Rare seabirds are establishing nesting colonies.",
+              "C) Commercial fishing dredging trials are taking place."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Dr. Vance explains that the zone supports nesting colonies of the roseate tern between March and July at [03:56].",
+            "evidenceQuote": "this zone supports the nesting colonies of the roseate tern, an endangered migratory seabird."
+          },
+          {
+            "id": 12,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "Why are volunteers instructed to walk exclusively on timber boardwalks across the Central Dunes?",
+            "options": [
+              "A) To safeguard native grass roots that prevent dune erosion.",
+              "B) To avoid disturbing subterranean viper dens.",
+              "C) To prevent shifting quicksand accidents during low tide."
+            ],
+            "correctAnswer": "A",
+            "explanation": "The warden stresses that the root networks of marram grass alone hold the sand banks together against erosion at [04:32].",
+            "evidenceQuote": "as the root networks alone prevent the sand banks from disintegrating"
+          },
+          {
+            "id": 13,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "Volunteers are forbidden from remaining on the South Shingle Spit when:",
+            "options": [
+              "A) Wind speeds exceed thirty knots.",
+              "B) Heavy sea fog impairs lighthouse visibility.",
+              "C) High tide is within a two-hour window."
+            ],
+            "correctAnswer": "C",
+            "explanation": "He warns: 'nobody is permitted on the outer spit within two hours of high water' at [05:07].",
+            "evidenceQuote": "nobody is permitted on the outer spit within two hours of high water."
+          },
+          {
+            "id": 14,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "Optical measuring tools must be cleansed strictly using:",
+            "options": [
+              "A) De-ionized distilled water stored in blue containers.",
+              "B) Diluted isopropyl alcohol solutions.",
+              "C) Filtered municipal borehole water."
+            ],
+            "correctAnswer": "A",
+            "explanation": "Sensors must be rinsed with distilled water stored in the blue carboys at [05:31].",
+            "evidenceQuote": "must be rinsed with distilled water, which is stored in the blue carboys"
+          },
+          {
+            "id": 15,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "What is the mandatory immediate action upon locating a stranded seal pup?",
+            "options": [
+              "A) Wrap the mammal in damp thermal blankets.",
+              "B) Keep human observers thirty meters away and alert vets.",
+              "C) Gently guide the animal back into deep surf."
+            ],
+            "correctAnswer": "B",
+            "explanation": "The protocol states: 'erect a 30-meter perimeter cordon... and phone the veterinary rapid response unit' at [05:54].",
+            "evidenceQuote": "erect a 30-meter perimeter cordon using the reflective stanchions, and phone the veterinary rapid response"
+          },
+          {
+            "id": 16,
+            "kind": "sentence_completion",
+            "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+            "prompt": "Volunteers entering Sector Alpha must equip themselves with _______ to stop the transmission of spores.",
+            "correctAnswer": "sanitized overshoes",
+            "explanation": "The warden states: 'must wear sanitized overshoes to prevent introducing fungal spores' at [03:56].",
+            "evidenceQuote": "must wear sanitized overshoes to prevent introducing fungal spores."
+          },
+          {
+            "id": 17,
+            "kind": "sentence_completion",
+            "instruction": "Write ONE WORD AND/OR A NUMBER.",
+            "prompt": "The daily muster and field assignment meeting takes place every morning at _______ sharp.",
+            "correctAnswer": "08:30",
+            "explanation": "Vance notes: 'All volunteers will muster here at 08:30 every morning' at [04:32].",
+            "evidenceQuote": "volunteers will muster here at 08:30 every morning"
+          },
+          {
+            "id": 18,
+            "kind": "sentence_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Walking on the marram grass is forbidden because its _______ stabilize the sand during winter storms.",
+            "correctAnswer": "roots",
+            "explanation": "He clarifies that root networks prevent dunes from disintegrating at [04:32].",
+            "evidenceQuote": "as the root networks alone prevent the sand banks from disintegrating"
+          },
+          {
+            "id": 19,
+            "kind": "sentence_completion",
+            "instruction": "Write ONE NUMBER ONLY.",
+            "prompt": "Emergency radio communications with the coastguard are conducted on maritime VHF Channel _______.",
+            "correctAnswer": "16",
+            "explanation": "The radios are preset to maritime VHF Channel 16 at [05:07].",
+            "evidenceQuote": "a VHF maritime radio tuned to Channel 16."
+          },
+          {
+            "id": 20,
+            "kind": "sentence_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Tap water is hazardous to sensitive sensors because its minerals cause lenses to _______.",
+            "correctAnswer": "calcify",
+            "explanation": "High mineral content calcifies optical lenses at [05:31].",
+            "evidenceQuote": "as its high mineral content calcifies the delicate optical lenses."
+          }
+        ]
+      },
+      {
+        "partNumber": 3,
+        "title": "Part 3: Academic Tutorial on Biomimetic Architecture",
+        "context": "Two postgraduates, Clara and Leo, discussing their seminar project with Professor Holbrook.",
+        "wordCount": 510,
+        "audioTranscript": "[06:45] Professor: Good afternoon Clara, Leo. Let us review the revised draft of your research paper on structural biomimicry in contemporary urban architecture. Clara, let's begin with your analysis of the Eastgate Centre in Harare, Zimbabwe. What did your empirical data reveal regarding its thermal efficiency?\n[07:05] Clara: Well Professor, what impressed us most was how faithfully Mick Pearce mirrored the internal convective venting of macrotermes bellicosus termite mounds. Traditional office blocks in tropical climates expend nearly 40 percent of their total power consumption on electromechanical air-conditioning. By employing concrete slab thermal mass that absorbs diurnal heat and purging it through rooftop chimneys via passive nocturnal draft, the Eastgate building reduced HVAC operating overheads by 35 percent relative to conventional glass towers.\n[07:44] Leo: And what's particularly remarkable is that the capital expenditure saved on cooling machinery immediately offset the cost of constructing the specialized thermal chimneys. However, in our literature review, we noted that several architectural critics argued that the Harare archetype cannot be universally replicated in maritime climates with high relative humidity, where nocturnal radiative cooling is severely impeded.\n[08:12] Professor: A very astute critique, Leo. Passive evaporative and convective cooling relies heavily on substantial diurnal temperature differentials—often 12 to 15 degrees Celsius—which oceanic regions simply do not experience. Now, what about your second case study: the Council House 2 building in Melbourne?\n[08:33] Clara: In CH2, the design team borrowed principles from tree transpiration and bark micro-shading. They installed recycled timber louvers that automatically rotate with solar azimuth angles, combined with chilled-beam ceiling conduits. What fascinated us was the measurable impact on indoor air quality: VOC concentrations dropped by 60 percent, and municipal absenteeism among city council staff declined by 18 percent over the first triennium.\n[09:05] Leo: Though we had a minor disagreement regarding the economic valuation of that productivity dividend. Clara felt the absenteeism metric should be highlighted as the primary justification for sustainable retrofits, whereas I contended that without rigorous carbon abatement data, corporate developers remain skeptical.\n[09:27] Professor: Both dimensions have merit. Institutional investors prioritize kilowatt-hour savings, whereas corporate tenants focus on human capital retention. For your final submission, you should synthesize both metrics into a unified lifecycle cost-benefit matrix.\n[09:44] Clara: Understood. Now regarding our final section on future prospects: self-healing concrete inspired by bacterial endospores. We are examining Bacillus pseudofirmus.\n[09:56] Professor: That is cutting-edge. When micro-cracks form and moisture penetrates, the dormant bacteria metabolize calcium lactate nutrients, precipitating limestone calcite that seals the fissure within three weeks. Be sure to address the durability limitations when exposed to acidic industrial precipitation.\n[10:18] Leo: We have already compiled laboratory durability curves from Delft University. We will incorporate that data by Friday.\n[10:25] Professor: Excellent. I look forward to reading the finalized version.",
+        "questions": [
+          {
+            "id": 21,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "According to Clara, the primary thermal mechanism of the Eastgate Centre relies on:",
+            "options": [
+              "A) Subterranean geothermal heat pumps.",
+              "B) Passive nocturnal venting using heavy concrete mass.",
+              "C) Mechanical fans powered by photovoltaic glass panels."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Clara explains it uses concrete thermal mass absorbing diurnal heat and venting it at night via passive draft at [07:05].",
+            "evidenceQuote": "By employing concrete slab thermal mass that absorbs diurnal heat and purging it through rooftop chimneys via passive nocturnal draft"
+          },
+          {
+            "id": 22,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "Why can the Eastgate Centre design NOT be easily copied in maritime coastal regions?",
+            "options": [
+              "A) High ambient humidity restricts nighttime temperature drops.",
+              "B) Saltwater spray corrodes natural ventilation flues.",
+              "C) Strict urban zoning laws prohibit high chimneys."
+            ],
+            "correctAnswer": "A",
+            "explanation": "Leo points out maritime climates have high humidity where nocturnal radiative cooling is impeded at [07:44].",
+            "evidenceQuote": "maritime climates with high relative humidity, where nocturnal radiative cooling is severely impeded."
+          },
+          {
+            "id": 23,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "The automated wooden louvers in Melbourne's CH2 building were engineered to mimic:",
+            "options": [
+              "A) Fish scales deflecting predatory sonar.",
+              "B) Tree bark shading and photosynthetic orientation.",
+              "C) Bird feather thermoregulation during flight."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Clara mentions principles from tree transpiration and bark micro-shading at [08:33].",
+            "evidenceQuote": "design team borrowed principles from tree transpiration and bark micro-shading."
+          },
+          {
+            "id": 24,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "What was the students' primary point of contention regarding the Melbourne project evaluation?",
+            "options": [
+              "A) The exact fire resistance rating of the timber facade.",
+              "B) Whether to emphasize staff absenteeism reduction or energy savings.",
+              "C) The statistical validity of indoor volatile compound readings."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Leo explains Clara prioritized the staff absenteeism metric, while he emphasized corporate carbon data at [09:05].",
+            "evidenceQuote": "Clara felt the absenteeism metric should be highlighted... whereas I contended that without rigorous carbon abatement data"
+          },
+          {
+            "id": 25,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, or C.",
+            "prompt": "In self-healing bio-concrete, what causes calcite limestone to fill structural fissures?",
+            "options": [
+              "A) Chemical oxidation of microscopic steel fibers.",
+              "B) Dormant bacteria consuming calcium lactate when wet.",
+              "C) Artificial polymers swelling upon ultraviolet exposure."
+            ],
+            "correctAnswer": "B",
+            "explanation": "The professor explains dormant bacteria metabolize calcium lactate nutrients when moisture penetrates at [09:56].",
+            "evidenceQuote": "dormant bacteria metabolize calcium lactate nutrients, precipitating limestone calcite"
+          },
+          {
+            "id": 26,
+            "kind": "matching",
+            "instruction": "Which attribute matches each building case study? Choose the correct letter, A, B, or C.\nA: Eastgate Centre (Harare)\nB: Council House 2 (Melbourne)\nC: Bio-Concrete Research (Delft)",
+            "prompt": "Recorded a sixty percent reduction in volatile organic compounds (VOCs).",
+            "correctAnswer": "B",
+            "explanation": "Clara states that in CH2 VOC concentrations dropped by 60 percent at [08:33].",
+            "evidenceQuote": "In CH2... VOC concentrations dropped by 60 percent"
+          },
+          {
+            "id": 27,
+            "kind": "matching",
+            "instruction": "Choose A, B, or C.",
+            "prompt": "Capital expenditure on specialized vents was balanced by omitting refrigeration machinery.",
+            "correctAnswer": "A",
+            "explanation": "Leo explains that capital savings on cooling machinery offset thermal chimneys cost at [07:44].",
+            "evidenceQuote": "capital expenditure saved on cooling machinery immediately offset the cost"
+          },
+          {
+            "id": 28,
+            "kind": "matching",
+            "instruction": "Choose A, B, or C.",
+            "prompt": "Requires supplementary data on resistance to acidic atmospheric rain.",
+            "correctAnswer": "C",
+            "explanation": "Professor warns them to address durability limitations when bio-concrete meets acidic precipitation at [09:56].",
+            "evidenceQuote": "address the durability limitations when exposed to acidic industrial precipitation."
+          },
+          {
+            "id": 29,
+            "kind": "sentence_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Passive nocturnal cooling systems require a diurnal temperature difference of at least twelve _______ Celsius.",
+            "correctAnswer": "degrees",
+            "explanation": "Professor notes the need for temperature differentials of 12 to 15 degrees Celsius at [08:12].",
+            "evidenceQuote": "differentials—often 12 to 15 degrees Celsius"
+          },
+          {
+            "id": 30,
+            "kind": "sentence_completion",
+            "instruction": "Write NO MORE THAN TWO WORDS.",
+            "prompt": "The professor recommends combining human productivity and energy savings into a _______ matrix.",
+            "correctAnswer": "lifecycle cost-benefit",
+            "explanation": "Professor advises: 'synthesize both metrics into a unified lifecycle cost-benefit matrix' at [09:27].",
+            "evidenceQuote": "unified lifecycle cost-benefit matrix."
+          }
+        ]
+      },
+      {
+        "partNumber": 4,
+        "title": "Part 4: Academic Lecture on Marine Bioluminescence and Photonic Adaptations",
+        "context": "A university lecture delivered by a marine biologist at the Institute of Oceanography.",
+        "wordCount": 540,
+        "audioTranscript": "[10:45] Lecturer: In today's lecture, we examine one of the most evolutionarily widespread yet visually enigmatic biological phenomena on Earth: marine bioluminescence. In the aphotic bathypelagic zone, stretching from 1,000 to 4,000 meters below sea level where ambient sunlight is entirely extinguished, light production is not an eccentric biological anomaly; it is the dominant mode of ecological interaction, exhibited by an estimated seventy-five to eighty percent of pelagic organisms.\n[11:18] At the molecular level, bioluminescent photon generation is an extraordinarily efficient chemiluminescent reaction that releases virtually no thermal energy. This 'cold light' is generated through the enzymatic oxidation of a light-emitting substrate universally termed luciferin, catalyzed by the specialized enzyme luciferase. In the presence of dissolved molecular oxygen, adenosine triphosphate (ATP), and frequently calcium cofactors, luciferin is oxidized into an excited oxyluciferin complex. As this molecule returns to its thermodynamic ground state, it discharges discrete quanta of visible light, typically in the blue-green spectral wavelength between 470 and 490 nanometers. This specific spectral band is evolutionarily favored because blue-green photons experience the absolute minimum absorption and scattering coefficients in saline seawater.\n[12:15] Now, consider the diverse morphological functions of photophores—the specialized glandular organs containing these biochemical reagents. In predatory species such as the deep-sea anglerfish, Melanocetus johnsonii, bioluminescence serves as aggressive mimicry. A modified dorsal spine called the illicium terminates in a glowing esca containing billions of symbiotic Photobacterium. In the perpetual abyss, unsuspecting teleost prey are lured directly toward the luminescent beacon, straight into the predator's prehensile jaws.\n[12:51] Conversely, for mesopelagic organisms inhabiting the twilight zone between 200 and 1,000 meters, bioluminescence is primarily an optical camouflage strategy termed counterillumination. Organisms such as the hatchetfish possess ventral banks of photophores directed downward. Photoreceptors on the dorsal side of the fish measure the intensity and spectral quality of downwelling celestial sunlight. The fish then adjusts its ventral emission to match this downwelling light perfectly. Consequently, an apex predator gazing upward from the ocean abyss sees no silhouette against the illuminated surface waters; the hatchetfish becomes optically transparent.\n[13:38] Beyond predation and concealment, bioluminescence governs intra-species communication and reproductive synchronization. Certain species of ostracod crustaceans emit pulses of light in precise geometric constellations to attract conspecific mates. In coastal environments, dinoflagellate blooms exhibit shear-induced bioluminescence. When mechanical shearing forces—such as a crashing surf or the wake of a swimming predator—deform the dinoflagellate cell membrane, voltage-gated proton channels open, acidifying internal scintillons and triggering instantaneous flashes. This functions as a 'burglar alarm', illuminating the secondary predator and rendering it vulnerable to tertiary carnivores higher in the trophic pyramid.\n[14:26] Finally, biotechnologists are harvesting green fluorescent protein (GFP) and luciferin genes for biomedical imaging. These molecular markers allow oncologists to track real-time cellular metastasis in mammalian tissue without invasive biopsy...",
+        "questions": [
+          {
+            "id": 31,
+            "kind": "note_completion",
+            "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+            "prompt": "Percentage of organisms in deep bathypelagic zones producing light: _______%",
+            "correctAnswer": "75 to 80",
+            "explanation": "Lecturer states it is exhibited by an estimated 75 to 80 percent of pelagic organisms at [10:45].",
+            "evidenceQuote": "exhibited by an estimated seventy-five to eighty percent of pelagic organisms."
+          },
+          {
+            "id": 32,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Bioluminescence is termed 'cold light' because it discharges virtually no _______ energy.",
+            "correctAnswer": "thermal",
+            "explanation": "The chemical reaction releases virtually no thermal energy at [11:18].",
+            "evidenceQuote": "releases virtually no thermal energy. This 'cold light' is generated"
+          },
+          {
+            "id": 33,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "The primary light-emitting substrate is oxidized by the catalyst enzyme _______.",
+            "correctAnswer": "luciferase",
+            "explanation": "Luciferin is catalyzed by the specialized enzyme luciferase at [11:18].",
+            "evidenceQuote": "catalyzed by the specialized enzyme luciferase."
+          },
+          {
+            "id": 34,
+            "kind": "note_completion",
+            "instruction": "Write NO MORE THAN TWO WORDS.",
+            "prompt": "Emission occurs predominantly in the _______ wavelength because it transmits best through seawater.",
+            "correctAnswer": "blue-green",
+            "explanation": "Light is emitted in the blue-green spectral wavelength between 470 and 490 nm at [11:18].",
+            "evidenceQuote": "discharges discrete quanta of visible light, typically in the blue-green spectral wavelength"
+          },
+          {
+            "id": 35,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Deep-sea anglerfish utilize an illuminated lure called an _______ to attract prey.",
+            "correctAnswer": "esca",
+            "explanation": "The dorsal spine terminates in a glowing esca containing bacteria at [12:15].",
+            "evidenceQuote": "terminates in a glowing esca containing billions of symbiotic Photobacterium."
+          },
+          {
+            "id": 36,
+            "kind": "note_completion",
+            "instruction": "Write NO MORE THAN TWO WORDS.",
+            "prompt": "The optical camouflage technique employed by mesopelagic hatchetfish is called _______.",
+            "correctAnswer": "counterillumination",
+            "explanation": "Lecturer explains the strategy termed counterillumination at [12:51].",
+            "evidenceQuote": "primarily an optical camouflage strategy termed counterillumination."
+          },
+          {
+            "id": 37,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "Hatchetfish eliminate their dark _______ by matching downward light emission to celestial sunlight.",
+            "correctAnswer": "silhouette",
+            "explanation": "Predators below see no silhouette against the surface waters at [12:51].",
+            "evidenceQuote": "predator gazing upward from the ocean abyss sees no silhouette"
+          },
+          {
+            "id": 38,
+            "kind": "note_completion",
+            "instruction": "Write NO MORE THAN TWO WORDS.",
+            "prompt": "Dinoflagellate flashes act as a _______ by exposing swimming grazers to higher carnivores.",
+            "correctAnswer": "burglar alarm",
+            "explanation": "Lecturer states: 'This functions as a burglar alarm, illuminating the secondary predator' at [13:38].",
+            "evidenceQuote": "functions as a 'burglar alarm', illuminating the secondary predator"
+          },
+          {
+            "id": 39,
+            "kind": "note_completion",
+            "instruction": "Write NO MORE THAN TWO WORDS.",
+            "prompt": "Flashing in dinoflagellates is activated when physical _______ deform the cell wall.",
+            "correctAnswer": "shearing forces",
+            "explanation": "Triggered when mechanical shearing forces deform the cell membrane at [13:38].",
+            "evidenceQuote": "mechanical shearing forces—such as a crashing surf or the wake of a swimming predator—deform the dinoflagellate"
+          },
+          {
+            "id": 40,
+            "kind": "note_completion",
+            "instruction": "Write ONE WORD ONLY.",
+            "prompt": "In modern oncology, fluorescent marine proteins are utilized to track cancer _______ in real time.",
+            "correctAnswer": "metastasis",
+            "explanation": "Biomedical imaging tracks real-time cellular metastasis in tissue at [14:26].",
+            "evidenceQuote": "allow oncologists to track real-time cellular metastasis in mammalian tissue"
+          }
+        ]
+      }
+    ]
+  },
+  "readingSection": {
+    "section": "reading",
+    "totalQuestions": 40,
+    "durationMinutes": 60,
+    "totalWordCount": 2685,
+    "passages": [
+      {
+        "passageNumber": 1,
+        "title": "The Hydraulic Ingenuity and Hydro-Ecological Collapse of Classic Maya Metropolises",
+        "subheading": "An investigation into how advanced aggregate sand filtration and paved catchment plazas sustained urban populations in the karst tropics before environmental vulnerability triggered abandonment.",
+        "wordCount": 820,
+        "text": "Paragraph A\nFor generations, American and European mesoamericanists were baffled by an apparent ecological paradox: how did colossal Classic Maya urban centers such as Tikal, Calakmul, and Caracol sustain dense metropolitan populations exceeding sixty to eighty thousand inhabitants within the tropical karst interior of the Petén Basin? Unlike the great fluvial civilizations of antiquity—the Nile Valley, Mesopotamia along the Tigris and Euphrates, the Indus Basin, and the Yellow River plain—the central Maya lowlands possessed neither perennial surface streams nor accessible riverine valleys. Furthermore, the underlying Cretaceous limestone geological substrate was so intensely permeable that rainfall instantly drained into deep subterranean caverns, far beyond the reach of primitive hand-dug wells. Compounding these hydrological constraints was an unyielding climatic seasonality divided strictly into a six-month tropical deluge and a debilitating half-year drought during which water scarcity threatened daily human survival.\n\nParagraph B\nGroundbreaking advances in airborne LiDAR remote sensing and geochemical analysis of sedimentary lake cores have illuminated the monumental hydraulic infrastructure designed to overcome these geographic liabilities. Rather than viewing the deluge as an uncontrollable hazard, Maya urban planners transformed entire city centers into vast, contiguous rainwater-harvesting apparatuses. Monumental acropolises, elevated ceremonial causeways known as sacbeob, and vast public plazas were intentionally paved with impermeable calcitic plaster and graded with subtle, micro-engineered slopes ranging from 0.5 to 2.0 degrees. These calculated gradients channeled millions of liters of torrential monsoon runoff through a network of masonry conduits straight into colossal, subterranean plastered reservoirs termed aguadas, ensuring municipal storage capacities that could withstand up to eighteen months of total rainfall cessation.\n\nParagraph C\nNevertheless, impounding millions of gallons of stagnant water within a sweltering tropical rainforest generated a lethal biological peril. In the absence of water circulation, warm tropical reservoirs rapidly become breeding incubators for pathogenic cyanobacteria, parasitic protozoans, and mosquito vectors transmitting debilitating fevers. In a landmark 2020 excavation conducted by geoarchaeologists from the University of Cincinnati at Tikal's Corriental reservoir, researchers unearthed the earliest known macroscopic water filtration apparatus in the Western Hemisphere. Strategically installed directly behind the masonry intake sluices was a multi-tiered filtration bed composed of alternating strata of coarse crystalline quartz sand and imported zeolitic volcanic aluminosilicate minerals.\n\nParagraph D\nThe presence of zeolite in a lowland sedimentary basin is of profound technological significance. Zeolite is an exceptionally porous volcanic mineral endowed with natural molecular-sieve properties and a strong negative electrostatic charge, enabling it to absorb toxic heavy metals, microbial bacteria, and hazardous organic tannins from cloudy runoff. Crucially, the nearest known geological source of this mineral is situated in the volcanic cordillera of the Bajo de Azúcar, more than thirty kilometers to the northeast of Tikal. The logistical effort required to quarry, pulverize, and transport metric tons of heavy volcanic minerals across rugged jungle terrain in the absence of wheeled draught carts or pack animals demonstrates an institutionalized civic commitment to municipal sanitation. Radiocarbon dating confirms that the Corriental filtration beds were maintained and periodically replenished for over seven centuries.\n\nParagraph E\nTragically, this extreme degree of centralized hydraulic hyper-engineering also sowed the seeds of civilizational vulnerability. Speleothem stalagmite isotope records from regional caves reveal that during the ninth and tenth centuries CE, Mesoamerica was gripped by a succession of catastrophic multi-year megadroughts linked to intertropical convergence zone shifts. As precipitation plummeted by up to fifty-four percent, the great civic reservoirs were repeatedly drawn down to their stagnant dregs. Geochemical sampling of Tikal's innermost palace reservoirs revealed lethal concentrations of mercury, leached from the cinnabar (mercuric sulfide) pigment extensively utilized by the royal court to coat temple facades and funerary vaults. When prolonged drought concentrated this toxic heavy metal in the sediment, the municipal water supply transformed into a lethal poison. Unable to sustain the urban workforce and facing environmental catastrophe, the ruling dynasties collapsed, and the great forest metropolises were permanently abandoned.",
+        "questions": [
+          {
+            "id": 1,
+            "kind": "true_false_not_given",
+            "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
+            "prompt": "Classic Maya urban centers were situated alongside major perennial flowing rivers.",
+            "correctAnswer": "FALSE",
+            "explanation": "Paragraph A states clearly that the lowlands 'possessed neither perennial surface streams nor accessible riverine valleys'.",
+            "evidenceQuote": "possessed neither perennial surface streams nor accessible riverine valleys."
+          },
+          {
+            "id": 2,
+            "kind": "true_false_not_given",
+            "instruction": "Write TRUE, FALSE, or NOT GIVEN.",
+            "prompt": "The limestone bedrock of the Petén Basin prevented rainwater from sinking into deep underground caverns.",
+            "correctAnswer": "FALSE",
+            "explanation": "Paragraph A explains the limestone was 'so intensely permeable that rainfall instantly drained into deep subterranean caverns'.",
+            "evidenceQuote": "underlying Cretaceous limestone geological substrate was so intensely permeable that rainfall instantly drained into deep subterranean caverns"
+          },
+          {
+            "id": 3,
+            "kind": "true_false_not_given",
+            "instruction": "Write TRUE, FALSE, or NOT GIVEN.",
+            "prompt": "Public plazas in Tikal were plastered and tilted at calculated angles to funnel rainwater into storage basins.",
+            "correctAnswer": "TRUE",
+            "explanation": "Paragraph B states plazas were 'paved with impermeable calcitic plaster and graded with subtle, micro-engineered slopes... channeled millions of liters... straight into colossal... reservoirs'.",
+            "evidenceQuote": "plazas were intentionally paved with impermeable calcitic plaster and graded with subtle, micro-engineered slopes"
+          },
+          {
+            "id": 4,
+            "kind": "true_false_not_given",
+            "instruction": "Write TRUE, FALSE, or NOT GIVEN.",
+            "prompt": "The Maya used domesticated beasts of burden to carry heavy zeolite minerals across the jungle.",
+            "correctAnswer": "FALSE",
+            "explanation": "Paragraph D states the transport was carried out 'in the absence of wheeled draught carts or pack animals'.",
+            "evidenceQuote": "in the absence of wheeled draught carts or pack animals"
+          },
+          {
+            "id": 5,
+            "kind": "true_false_not_given",
+            "instruction": "Write TRUE, FALSE, or NOT GIVEN.",
+            "prompt": "Priests were responsible for conducting religious blessing ceremonies at the Corriental reservoir intake.",
+            "correctAnswer": "NOT GIVEN",
+            "explanation": "While religious architecture and court life are mentioned, there is no mention in the text of priests conducting blessing ceremonies at the reservoir intake.",
+            "evidenceQuote": "N/A"
+          },
+          {
+            "id": 6,
+            "kind": "true_false_not_given",
+            "instruction": "Write TRUE, FALSE, or NOT GIVEN.",
+            "prompt": "Mercury contamination in Tikal's palace water supply originated from red paint pigments on royal buildings.",
+            "correctAnswer": "TRUE",
+            "explanation": "Paragraph E confirms lethal mercury was 'leached from the cinnabar (mercuric sulfide) pigment extensively utilized by the royal court to coat temple facades'.",
+            "evidenceQuote": "leached from the cinnabar (mercuric sulfide) pigment extensively utilized by the royal court to coat temple facades"
+          },
+          {
+            "id": 7,
+            "kind": "note_completion",
+            "instruction": "Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "LiDAR imaging proved that monumental plazas and elevated _______ were designed to collect rainwater.",
+            "correctAnswer": "causeways",
+            "explanation": "Paragraph B mentions 'elevated ceremonial causeways known as sacbeob'.",
+            "evidenceQuote": "elevated ceremonial causeways known as sacbeob"
+          },
+          {
+            "id": 8,
+            "kind": "note_completion",
+            "instruction": "Choose NO MORE THAN TWO WORDS.",
+            "prompt": "Plastered slopes allowed reservoirs to store enough water to survive up to _______ of dry conditions.",
+            "correctAnswer": "eighteen months",
+            "explanation": "Paragraph B states storage capacities 'could withstand up to eighteen months of total rainfall cessation'.",
+            "evidenceQuote": "withstand up to eighteen months of total rainfall cessation."
+          },
+          {
+            "id": 9,
+            "kind": "note_completion",
+            "instruction": "Choose NO MORE THAN TWO WORDS.",
+            "prompt": "In the Corriental reservoir, water was cleaned through alternating beds of quartz sand and volcanic _______.",
+            "correctAnswer": "zeolite",
+            "explanation": "Paragraph C and D describe the use of zeolite in filtration beds.",
+            "evidenceQuote": "alternating strata of coarse crystalline quartz sand and imported zeolitic volcanic aluminosilicate minerals."
+          },
+          {
+            "id": 10,
+            "kind": "note_completion",
+            "instruction": "Choose ONE WORD ONLY.",
+            "prompt": "Zeolite minerals possessed a natural molecular-sieve structure and negative _______ charge that trapped pathogens.",
+            "correctAnswer": "electrostatic",
+            "explanation": "Paragraph D states zeolite is endowed with 'a strong negative electrostatic charge'.",
+            "evidenceQuote": "endowed with natural molecular-sieve properties and a strong negative electrostatic charge"
+          },
+          {
+            "id": 11,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "According to Paragraph D, what makes the discovery of zeolite at Tikal so impressive to archaeologists?",
+            "options": [
+              "A) It was manufactured in underground ovens by Maya alchemists.",
+              "B) It had to be hauled by human labor from deposits over thirty kilometers away.",
+              "C) It was used as currency throughout the Mesoamerican trade network.",
+              "D) It eliminated the need for plaster coatings in the reservoirs."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Paragraph D underscores that the nearest deposit was over 30 kilometers away and had to be hauled without pack animals or wheeled carts.",
+            "evidenceQuote": "the closest known geological source of this mineral is situated in the volcanic cordillera of the Bajo de Azúcar, more than thirty kilometers"
+          },
+          {
+            "id": 12,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "In Paragraph E, stalagmite isotope records provide scientific evidence that:",
+            "options": [
+              "A) Tikal was destroyed by a volcanic eruption in the tenth century.",
+              "B) Severe megadroughts caused precipitation to decline by more than half.",
+              "C) The Maya population migrated peacefully toward the Caribbean coast.",
+              "D) Earthquakes ruptured the intake conduits of the water systems."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Paragraph E states stalagmite records show rainfall plummeted by up to 54 percent during catastrophic megadroughts.",
+            "evidenceQuote": "speleothem stalagmite isotope records from regional caves reveal that... precipitation plummeted by up to fifty-four percent"
+          },
+          {
+            "id": 13,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "What is the primary thesis of the entire passage?",
+            "options": [
+              "A) Maya warfare was triggered exclusively by disputes over river trading rights.",
+              "B) Sophisticated hydraulic engineering enabled urban expansion but created critical vulnerabilities during climatic extremes.",
+              "C) Zeolite filtration was an accidental discovery that had little impact on ancient public health.",
+              "D) Lowland jungle soils were unsuited for agriculture from the very beginning."
+            ],
+            "correctAnswer": "B",
+            "explanation": "The entire passage chronicles how massive urban populations were made possible through ingenious catchment and filtration, but this centralized hyper-engineering collapsed when megadroughts struck.",
+            "evidenceQuote": "this extreme degree of centralized hydraulic hyper-engineering also sowed the seeds of civilizational vulnerability."
+          }
+        ]
+      },
+      {
+        "passageNumber": 2,
+        "title": "Neuroplasticity, Executive Function, and the Cognitive Reserve of Multilingualism",
+        "subheading": "How active management of multiple linguistic codes restructures the prefrontal cortex, enhances attentional inhibition, and mitigates neurodegenerative decline.",
+        "wordCount": 890,
+        "text": "Paragraph A\nThroughout the early decades of the twentieth century, an entrenched pedagogical consensus in Western educational psychology maintained that exposing young children to bilingual environments was intrinsically detrimental. Prominent developmental researchers asserted that compelling a developing brain to assimilate two divergent lexicons and grammatical codes generated severe cognitive interference, delayed vocabulary acquisition, and contributed to permanent intellectual deficits. It was not until the seminal 1962 Montreal investigation conducted by Elizabeth Peal and Wallace Lambert that this deficit paradigm was dismantled. Using methodologically rigorous controls for socioeconomic status and parental education, Peal and Lambert demonstrated that bilingual children exhibited marked superiority over monolingual peers in non-verbal divergent thinking, symbolic manipulation, and conceptual flexibility.\n\nParagraph B\nIn the subsequent decades, structural and functional neuroimaging technologies—most notably functional Magnetic Resonance Imaging (fMRI) and Diffusion Tensor Imaging (DTI)—have unveiled the neurological mechanisms underpinning these performance differentials. Cognitive neuroscientists now recognize that in the multilingual brain, all known languages remain perpetually active simultaneously. Even when an individual is conversing exclusively in their native tongue, lexical candidates in their secondary and tertiary languages are continuously activated in parallel. The brain does not possess a mechanical compartmentalization switch that shuts down one lexicon while another is in use. Consequently, speech production necessitates an unrelenting mental competition that must be resolved through selective suppression.\n\nParagraph C\nTo prevent intrusive cross-linguistic errors and unintended code-switching, the brain continuously enlists the executive control network—a distributed fronto-basal-parietal circuitry centered in the dorsolateral prefrontal cortex, anterior cingulate cortex, and basal ganglia. This apparatus governs domain-general executive functions: conflict monitoring, selective attention, working memory updating, and inhibitory control. Because bilingual individuals must exercise this inhibitory neuro-musculature in every conversational exchange, their executive network undergoes continuous neuroplastic adaptation. DTI neuroimaging reveals increased fractional anisotropy—a marker of enhanced white-matter myelin integrity—in the corpus callosum and superior longitudinal fasciculus of lifelong bilinguals, signifying faster and more robust neural signal transmission between hemispheres.\n\nParagraph D\nThis continuous mental conditioning manifests across behavioral paradigms measuring attentional control. In experimental tasks such as the Stroop color-word test, the Simon spatial incompatibility task, and the Flanker paradigm, participants must attend to a target stimulus while actively ignoring distracting or conflicting peripheral cues. Across diverse age demographics, bilingual subjects consistently demonstrate a significant reaction-time advantage, commonly referred to as the 'bilingual executive advantage.' Crucially, this cognitive edge is most pronounced not in young adults at the peak of their physiological cognitive capacity, but at the extreme poles of the lifespan: in developing toddlers and aging senior citizens whose executive reserves are either forming or undergoing natural biological attrition.\n\nParagraph E\nPerhaps the most consequential clinical implication of lifelong multilingualism lies in the etiology of age-related neurodegenerative pathology. In comprehensive epidemiological research led by Dr. Ellen Bialystok and verified by independent neurology cohorts worldwide, lifelong bilingual patients diagnosed with probable Alzheimer's disease consistently displayed initial clinical symptoms of memory loss, disorientation, and functional decline four to five years later than monolingual cohorts with matched chronological age and socio-educational profiles. Astonishingly, when post-mortem neuropathological examinations and high-resolution computed tomography scans compared the physical brain tissue of these cohorts, bilingual patients exhibited substantially greater cortical atrophy, synaptic depletion, and amyloid-beta plaque deposition than monolinguals exhibiting identical symptom severity.\n\nParagraph F\nThis striking discrepancy between physical brain damage and clinical cognitive performance is explained through the concept of 'cognitive reserve.' Multilingualism does not operate as an immunological shield against the physiological initiation of neuropathology; rather, decades of coordinating competing linguistic networks construct alternative, highly resilient neural circuits. When neurodegenerative plaques destroy primary neuro-pathways, the multilingual brain seamlessly bypasses the lesions by rerouting information through redundant subcortical and contralateral connections. The brain continues to function effectively until the accumulated structural destruction reaches a catastrophic threshold, effectively buying elderly individuals years of autonomous, high-quality living.",
+        "questions": [
+          {
+            "id": 14,
+            "kind": "matching_headings",
+            "instruction": "Reading Passage 2 has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below.\nList of Headings:\ni. The early pedagogical myth of linguistic confusion and its refutation\nii. The clinical delay in symptomatic onset despite advanced physical pathology\niii. Structural white-matter enhancements and the executive control circuit\niv. The parallel activation of languages and perpetual lexical conflict\nv. The physical mechanisms of amyloid plaque formation\nvi. The concept of cognitive reserve and compensatory neural rerouting\nvii. Behavioral task advantages across the developmental lifespan\nviii. Language acquisition rates in early childhood",
+            "prompt": "Paragraph A",
+            "correctAnswer": "i",
+            "explanation": "Paragraph A details the early 20th-century myth that bilingualism caused deficits and how Peal and Lambert's 1962 study refuted it.",
+            "evidenceQuote": "an entrenched pedagogical consensus... maintained that exposing young children to bilingual environments was intrinsically detrimental... It was not until the seminal 1962 Montreal investigation... that this deficit paradigm was dismantled."
+          },
+          {
+            "id": 15,
+            "kind": "matching_headings",
+            "instruction": "Choose the correct heading from the list.",
+            "prompt": "Paragraph B",
+            "correctAnswer": "iv",
+            "explanation": "Paragraph B explains that all languages remain active in the brain simultaneously, creating continuous lexical competition.",
+            "evidenceQuote": "in the multilingual brain, all known languages remain perpetually active simultaneously... speech production necessitates an unrelenting mental competition"
+          },
+          {
+            "id": 16,
+            "kind": "matching_headings",
+            "instruction": "Choose the correct heading from the list.",
+            "prompt": "Paragraph C",
+            "correctAnswer": "iii",
+            "explanation": "Paragraph C describes the executive control network and the structural white-matter myelin integrity improvements observed via DTI imaging.",
+            "evidenceQuote": "executive control network... DTI neuroimaging reveals increased fractional anisotropy—a marker of enhanced white-matter myelin integrity"
+          },
+          {
+            "id": 17,
+            "kind": "matching_headings",
+            "instruction": "Choose the correct heading from the list.",
+            "prompt": "Paragraph D",
+            "correctAnswer": "vii",
+            "explanation": "Paragraph D discusses behavioral paradigms (Stroop, Simon, Flanker) showing advantages that peak in toddlers and senior citizens.",
+            "evidenceQuote": "This continuous mental conditioning manifests across behavioral paradigms... cognitive edge is most pronounced... in developing toddlers and aging senior citizens"
+          },
+          {
+            "id": 18,
+            "kind": "matching_headings",
+            "instruction": "Choose the correct heading from the list.",
+            "prompt": "Paragraph E",
+            "correctAnswer": "ii",
+            "explanation": "Paragraph E shows Alzheimer's symptoms are delayed by 4-5 years despite worse physical plaque deposition and cortical atrophy.",
+            "evidenceQuote": "displayed initial clinical symptoms... four to five years later than monolingual cohorts... bilingual patients exhibited substantially greater cortical atrophy"
+          },
+          {
+            "id": 19,
+            "kind": "matching_headings",
+            "instruction": "Choose the correct heading from the list.",
+            "prompt": "Paragraph F",
+            "correctAnswer": "vi",
+            "explanation": "Paragraph F defines cognitive reserve and explains how alternative neural pathways bypass damaged tissue.",
+            "evidenceQuote": "explained through the concept of 'cognitive reserve'... multilingual brain seamlessly bypasses the lesions by rerouting information through redundant subcortical and contralateral connections."
+          },
+          {
+            "id": 20,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "Peal and Lambert's 1962 Montreal study was historically significant because it:",
+            "options": [
+              "A) Proved that monolingual children possess superior grammar recall.",
+              "B) Controlled for socioeconomic factors and revealed bilingual cognitive strengths.",
+              "C) Invented the first computerized Stroop test apparatus.",
+              "D) Advocated against teaching second languages in elementary schools."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Paragraph A states Peal and Lambert used 'methodologically rigorous controls for socioeconomic status' and showed bilingual children exhibited superiority in non-verbal thinking.",
+            "evidenceQuote": "Using methodologically rigorous controls for socioeconomic status and parental education, Peal and Lambert demonstrated that bilingual children exhibited marked superiority"
+          },
+          {
+            "id": 21,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "According to Paragraph B, what happens in the brain when a bilingual person speaks only one language?",
+            "options": [
+              "A) The secondary language is fully deactivated by an unconscious biological switch.",
+              "B) Brain metabolism drops significantly in language centers.",
+              "C) Vocabulary from both linguistic codes remains active in the mind.",
+              "D) Memory retrieval errors occur in every third sentence."
+            ],
+            "correctAnswer": "C",
+            "explanation": "Paragraph B states: 'Even when an individual is conversing exclusively in their native tongue, lexical candidates in their secondary and tertiary languages are continuously activated in parallel.'",
+            "evidenceQuote": "all known languages remain perpetually active simultaneously... lexical candidates in their secondary and tertiary languages are continuously activated in parallel."
+          },
+          {
+            "id": 22,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "DTI neuroimaging shows that bilingualism improves brain communication through greater:",
+            "options": [
+              "A) Production of dopamine neurotransmitters.",
+              "B) Myelin insulation of white-matter nerve fibers.",
+              "C) Enlargement of the auditory processing cortex.",
+              "D) Fluid circulation through the spinal canal."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Paragraph C notes increased fractional anisotropy, which is a marker of enhanced white-matter myelin integrity.",
+            "evidenceQuote": "increased fractional anisotropy—a marker of enhanced white-matter myelin integrity—in the corpus callosum"
+          },
+          {
+            "id": 23,
+            "kind": "sentence_completion",
+            "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "The bilingual executive advantage is most distinct in very young children and _______.",
+            "correctAnswer": "senior citizens",
+            "explanation": "Paragraph D states: 'in developing toddlers and aging senior citizens'.",
+            "evidenceQuote": "in developing toddlers and aging senior citizens whose executive reserves are either forming or undergoing natural biological attrition."
+          },
+          {
+            "id": 24,
+            "kind": "sentence_completion",
+            "instruction": "Choose ONE WORD AND/OR A NUMBER.",
+            "prompt": "In Dr. Bialystok's research, bilingual patients showed Alzheimer's symptoms _______ years later than monolinguals.",
+            "correctAnswer": "four to five",
+            "explanation": "Paragraph E states symptoms manifested 'four to five years later than monolingual cohorts'.",
+            "evidenceQuote": "symptoms of memory loss, disorientation, and functional decline four to five years later than monolingual cohorts"
+          },
+          {
+            "id": 25,
+            "kind": "sentence_completion",
+            "instruction": "Choose NO MORE THAN TWO WORDS.",
+            "prompt": "Autopsies revealed that bilingual brains often had greater levels of _______ plaques despite normal memory during life.",
+            "correctAnswer": "amyloid-beta",
+            "explanation": "Paragraph E explicitly identifies amyloid-beta plaque deposition.",
+            "evidenceQuote": "greater cortical atrophy, synaptic depletion, and amyloid-beta plaque deposition"
+          },
+          {
+            "id": 26,
+            "kind": "sentence_completion",
+            "instruction": "Choose NO MORE THAN TWO WORDS.",
+            "prompt": "The brain compensates for tissue decay by utilizing _______ to redirect neural information around damaged zones.",
+            "correctAnswer": "resilient neural circuits",
+            "explanation": "Paragraph F explains decades of coordinating linguistic networks construct alternative, highly resilient neural circuits.",
+            "evidenceQuote": "construct alternative, highly resilient neural circuits."
+          }
+        ]
+      },
+      {
+        "passageNumber": 3,
+        "title": "Algorithmic Urbanism and the Autonomous Mobility Transition",
+        "subheading": "Assessing how on-demand self-driving transport fleets could dismantle municipal asphalt real estate, reorganize suburban zoning, and test regulatory safety governance.",
+        "wordCount": 975,
+        "text": "Paragraph A\nThroughout the twentieth century, no single technological consumer artifact exercised a more despotic influence over the architectural morphology of metropolitan spaces than the privately owned internal combustion passenger vehicle. In contemporary Western cities, private automobiles stand entirely stationary for an average of ninety-five percent of their operational lifespans. To accommodate these multi-ton depreciating metal boxes, municipalities across North America, Europe, and Australasia have surrendered between twenty-five and forty percent of their finite land footprints to parking infrastructure: vast asphalt lots, subterranean garages, and multi-lane curbside allocations. This spatial subsidization of private automotive storage has driven catastrophic urban sprawl, hyper-inflated urban residential real estate prices, and created impermeable heat islands that exacerbate stormwater flooding.\n\nParagraph B\nUrban transport economists and algorithmic systems theorists argue that the convergence of three foundational technological revolutions—autonomous driving systems (ADS), electric powertrains, and algorithmic on-demand ridesharing platforms—is on the verge of obsoleting the century-old paradigm of individual vehicle ownership. If an autonomous, Level 4 or Level 5 electric pod can be summoned via smartphone application and arrive at an urban resident's doorstep within ninety to one hundred and twenty seconds, the financial and logistical rationale for paying insurance, registration fees, maintenance, and parking leases for an idle personal vehicle vanishes. Transport models developed at the Massachusetts Institute of Technology indicate that a shared fleet of autonomous vehicles representing merely fifteen to twenty percent of the current private car population could comfortably accommodate one hundred percent of daily passenger trips in a metropolitan city like Singapore or Vienna.\n\nParagraph C\nThe spatial dividends of this transition would be transformative. Automated on-demand vehicles do not require parking within dense downtown central business districts; between passenger dispatches, vehicles can either continuously circulate, queue in peripheral suburban charging depots, or dynamically redistribute to anticipation zones predicted by machine learning demand models. Consequently, vast swathes of municipal parking real estate—estimated at tens of thousands of square hectares in major cities—could be reclaimed. Urban architects envision converting surface parking lots into high-density affordable housing, micro-parks, urban farming pavilions, and bioswales designed to absorb monsoon precipitation. Furthermore, because autonomous driving algorithms optimize vehicle spacing and virtually eliminate human driver reaction latency, arterial roadways could safely operate with significantly narrower lanes, allowing wide swaths of asphalt to be permanently retrofitted into protected cycle tracks and pedestrian avenues.\n\nParagraph D\nHowever, critical urban geographers and transport planners caution that the autonomous mobility revolution is fraught with dangerous socio-environmental counter-effects, primarily the threat of induced travel demand. If travel time ceases to be an unrewarding cognitive chore and transforms into productive leisure or work time inside a rolling office, commuter tolerance for long-distance transit will expand exponentially. Suburban commuters might happily accept ninety-minute commutes if they can sleep, stream media, or conduct business conferences inside an autonomous pod. Paradoxically, this could stimulate a catastrophic new wave of super-sprawl into fragile agricultural hinterlands. Furthermore, if autonomous rides are priced at dirt-cheap marginal operational costs, commuters will inevitably defect away from high-capacity municipal public transit, such as subways and light-rail trains. The nightmare scenario envisioned by transport analysts is a city choked by millions of empty 'zombie vehicles' circling urban blocks between appointments to avoid off-site parking tariffs.\n\nParagraph E\nBeyond urban planning dilemmas lies the daunting challenge of algorithmic liability and algorithmic safety validation. Human drivers in industrialized nations possess an aggregate baseline safety record of approximately one fatal collision per one hundred million vehicle miles traveled (VMT). To statistically prove that an autonomous algorithm surpasses human safety performance by even twenty percent would require testing autonomous fleets across billions of physical road miles—a multi-decade timeline that physical road testing alone cannot achieve. Autonomous developers have consequently pivoted toward high-fidelity physics-based simulation engines, where generative artificial intelligence subjects autonomous software to billions of edge-case scenarios: sudden blizzard conditions, camera-blinding solar glare, and unpredictable pedestrian incursions across poorly lit intersections.\n\nParagraph F\nUltimately, the societal success of autonomous mobility will depend on municipal regulatory governance rather than silicon valley software sophistication. Without stringent congestion pricing, per-mile vehicle travel taxes, and explicit mandates obligating shared vehicle occupancy, autonomous fleets will exacerbate the very gridlock they were heralded to solve. Forward-thinking cities must enact spatial quotas that actively prioritize mass transit corridors and penalize empty vehicle repositioning. The autonomous vehicle is not an autonomous panacea; it is a disruptive technological catalyst whose outcome will be determined by whether municipal governments subjugate it to human-centric urban design or once again surrender their cities to the automobile.",
+        "questions": [
+          {
+            "id": 27,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "According to Paragraph A, private passenger vehicles spend roughly what proportion of their lifespans parked idle?",
+            "options": [
+              "A) Fifty percent",
+              "B) Seventy-five percent",
+              "C) Ninety-five percent",
+              "D) Twenty-five percent"
+            ],
+            "correctAnswer": "C",
+            "explanation": "Paragraph A states cars stand entirely stationary for an average of ninety-five percent of their operational lifespans.",
+            "evidenceQuote": "private automobiles stand entirely stationary for an average of ninety-five percent of their operational lifespans."
+          },
+          {
+            "id": 28,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "MIT transport models suggest that an autonomous fleet could replace personal cars if it equals:",
+            "options": [
+              "A) Ten percent of the population.",
+              "B) Fifteen to twenty percent of the current private fleet.",
+              "C) Exactly half of the municipal bus network.",
+              "D) Twice the volume of current taxis."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Paragraph B states a fleet representing merely fifteen to twenty percent of the current private car population could handle 100% of trips.",
+            "evidenceQuote": "a shared fleet of autonomous vehicles representing merely fifteen to twenty percent of the current private car population"
+          },
+          {
+            "id": 29,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "In Paragraph C, how could street roadway geometry change under autonomous traffic?",
+            "options": [
+              "A) Streets will require high concrete blast barriers.",
+              "B) Traffic lanes can be narrowed safely, freeing up space for bike paths and walking zones.",
+              "C) Underground tunnels will replace all surface streets completely.",
+              "D) Speed limits will be abolished in all city centers."
+            ],
+            "correctAnswer": "B",
+            "explanation": "Paragraph C explains that automated spacing allows narrower lanes, allowing asphalt to be retrofitted into cycle tracks and pedestrian avenues.",
+            "evidenceQuote": "arterial roadways could safely operate with significantly narrower lanes, allowing wide swaths of asphalt to be permanently retrofitted into protected cycle tracks"
+          },
+          {
+            "id": 30,
+            "kind": "multiple_choice",
+            "instruction": "Choose the correct letter, A, B, C, or D.",
+            "prompt": "What danger is highlighted by transport planners regarding very cheap autonomous travel?",
+            "options": [
+              "A) Commuters might abandon high-capacity subways and trains, causing worse congestion.",
+              "B) Vehicle batteries will fail in cold winter weather.",
+              "C) Telecommunications towers will crash from cellular overload.",
+              "D) Tourism in historic city districts will collapse."
+            ],
+            "correctAnswer": "A",
+            "explanation": "Paragraph D points out commuters will defect away from municipal public transit like subways and light-rail trains.",
+            "evidenceQuote": "commuters will inevitably defect away from high-capacity municipal public transit, such as subways and light-rail trains."
+          },
+          {
+            "id": 31,
+            "kind": "true_false_not_given",
+            "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
+            "prompt": "Up to forty percent of urban land in some Western cities is currently dedicated to parking space.",
+            "correctAnswer": "YES",
+            "explanation": "Paragraph A states municipalities have surrendered between twenty-five and forty percent of land footprints to parking.",
+            "evidenceQuote": "municipalities across North America, Europe, and Australasia have surrendered between twenty-five and forty percent of their finite land footprints to parking"
+          },
+          {
+            "id": 32,
+            "kind": "true_false_not_given",
+            "instruction": "Write YES, NO, or NOT GIVEN.",
+            "prompt": "Automated vehicles are legally prohibited from traveling in suburban districts without a licensed safety operator.",
+            "correctAnswer": "NOT GIVEN",
+            "explanation": "The text discusses Level 4 and 5 automation, but does not state that they are legally prohibited in suburban districts without a human operator.",
+            "evidenceQuote": "N/A"
+          },
+          {
+            "id": 33,
+            "kind": "true_false_not_given",
+            "instruction": "Write YES, NO, or NOT GIVEN.",
+            "prompt": "Turning travel time into productive work or rest time could unintentionally encourage people to live farther away from cities.",
+            "correctAnswer": "YES",
+            "explanation": "Paragraph D explains commuters might accept 90-minute commutes if they can sleep or work, stimulating super-sprawl into rural areas.",
+            "evidenceQuote": "commuter tolerance for long-distance transit will expand exponentially... stimulative of a catastrophic new wave of super-sprawl"
+          },
+          {
+            "id": 34,
+            "kind": "true_false_not_given",
+            "instruction": "Write YES, NO, or NOT GIVEN.",
+            "prompt": "Physical road testing alone is sufficient to prove that self-driving algorithms are safer than human drivers within three years.",
+            "correctAnswer": "NO",
+            "explanation": "Paragraph E explicitly states that proving this through physical road testing would require billions of miles across a multi-decade timeline that physical testing alone cannot achieve.",
+            "evidenceQuote": "a multi-decade timeline that physical road testing alone cannot achieve."
+          },
+          {
+            "id": 35,
+            "kind": "true_false_not_given",
+            "instruction": "Write YES, NO, or NOT GIVEN.",
+            "prompt": "Without strict government regulations, autonomous fleets could worsen metropolitan traffic jams.",
+            "correctAnswer": "YES",
+            "explanation": "Paragraph F notes that without congestion pricing and mandates, autonomous fleets will exacerbate the very gridlock they were meant to solve.",
+            "evidenceQuote": "Without stringent congestion pricing, per-mile vehicle travel taxes... autonomous fleets will exacerbate the very gridlock they were heralded to solve."
+          },
+          {
+            "id": 36,
+            "kind": "matching",
+            "instruction": "Match each urban outcome (Questions 36–38) with the correct driver mechanism (A, B, or C) from the list below.\nA: Absence of driver reaction latency\nB: Empty vehicle repositioning to avoid parking charges\nC: Induced commuter travel tolerance",
+            "prompt": "Emergence of 'zombie vehicles' continuously circling downtown roads.",
+            "correctAnswer": "B",
+            "explanation": "Paragraph D defines zombie vehicles as cars circling blocks to avoid off-site parking fees.",
+            "evidenceQuote": "empty 'zombie vehicles' circling urban blocks between appointments to avoid off-site parking tariffs."
+          },
+          {
+            "id": 37,
+            "kind": "matching",
+            "instruction": "Match with A, B, or C.",
+            "prompt": "Feasibility of significantly narrower roadway travel lanes.",
+            "correctAnswer": "A",
+            "explanation": "Paragraph C states that algorithms eliminate human reaction latency, allowing narrower lanes.",
+            "evidenceQuote": "because autonomous driving algorithms optimize vehicle spacing and virtually eliminate human driver reaction latency"
+          },
+          {
+            "id": 38,
+            "kind": "matching",
+            "instruction": "Match with A, B, or C.",
+            "prompt": "Proliferation of housing developments into distant rural land.",
+            "correctAnswer": "C",
+            "explanation": "Paragraph D discusses how productive travel time expands commuter distance tolerance, driving super-sprawl into agricultural hinterlands.",
+            "evidenceQuote": "commuter tolerance for long-distance transit will expand exponentially... stimulate a catastrophic new wave of super-sprawl into fragile agricultural hinterlands."
+          },
+          {
+            "id": 39,
+            "kind": "sentence_completion",
+            "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "To test algorithms against dangerous edge cases, developers run digital trials inside high-fidelity _______ engines.",
+            "correctAnswer": "simulation",
+            "explanation": "Paragraph E states companies pivoted toward high-fidelity physics-based simulation engines.",
+            "evidenceQuote": "developers have consequently pivoted toward high-fidelity physics-based simulation engines"
+          },
+          {
+            "id": 40,
+            "kind": "sentence_completion",
+            "instruction": "Choose NO MORE THAN TWO WORDS.",
+            "prompt": "Urban planners advocate for _______ to ensure self-driving vehicles carry multiple passengers rather than travelling solo.",
+            "correctAnswer": "explicit mandates",
+            "explanation": "Paragraph F calls for explicit mandates obligating shared vehicle occupancy.",
+            "evidenceQuote": "explicit mandates obligating shared vehicle occupancy"
+          }
+        ]
+      }
+    ]
+  },
+  "writingSection": {
+    "section": "writing",
+    "totalTasks": 2,
+    "durationMinutes": 60,
+    "task1": {
+      "taskNumber": 1,
+      "type": "Academic Report (Mixed Line Graph & Table)",
+      "targetMinutes": 20,
+      "minWordCount": 150,
+      "promptTitle": "Global Investment in Clean Renewable Energy Sectors vs Fossil Fuel Subsidies (2000–2025)",
+      "promptText": "The line graph below illustrates global financial investment (in billions of US dollars) across three distinct renewable energy sectors—Solar, Wind, and Hydroelectric power—alongside total government subsidies allocated to fossil fuels over a 25-year period between 2000 and 2025.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\nWrite at least 150 words.",
+      "visualDataSpecification": {
+        "chartType": "Multi-line comparative trend graph with supporting quantitative benchmarks",
+        "units": "Billions of US Dollars (USD)",
+        "series": [
+          {
+            "name": "Solar Energy",
+            "color": "#f59e0b",
+            "dataPoints": [
+              { "year": "2000", "value": 10 },
+              { "year": "2005", "value": 35 },
+              { "year": "2010", "value": 85 },
+              { "year": "2015", "value": 140 },
+              { "year": "2020", "value": 195 },
+              { "year": "2025", "value": 240 }
+            ]
+          },
+          {
+            "name": "Wind Energy",
+            "color": "#06b6d4",
+            "dataPoints": [
+              { "year": "2000", "value": 25 },
+              { "year": "2005", "value": 50 },
+              { "year": "2010", "value": 95 },
+              { "year": "2015", "value": 130 },
+              { "year": "2020", "value": 160 },
+              { "year": "2025", "value": 180 }
+            ]
+          },
+          {
+            "name": "Hydroelectric Power",
+            "color": "#10b981",
+            "dataPoints": [
+              { "year": "2000", "value": 60 },
+              { "year": "2005", "value": 62 },
+              { "year": "2010", "value": 65 },
+              { "year": "2015", "value": 68 },
+              { "year": "2020", "value": 70 },
+              { "year": "2025", "value": 72 }
+            ]
+          },
+          {
+            "name": "Fossil Fuel Subsidies",
+            "color": "#ef4444",
+            "dataPoints": [
+              { "year": "2000", "value": 400 },
+              { "year": "2005", "value": 460 },
+              { "year": "2010", "value": 520 },
+              { "year": "2012", "value": 550 },
+              { "year": "2015", "value": 380 },
+              { "year": "2020", "value": 260 },
+              { "year": "2025", "value": 190 }
+            ]
+          }
+        ]
+      },
+      "keyFeaturesToReport": [
+        "Solar underwent exponential growth, multiplying 24-fold from $10B in 2000 to become the dominant clean sector at $240B in 2025.",
+        "Wind energy displayed steady acceleration from $25B to $180B.",
+        "Hydroelectric power showed marginal, plateaued growth from $60B to $72B.",
+        "Fossil fuel subsidies peaked in 2012 at $550B before experiencing a precipitous decline to $190B, being overtaken by solar in 2023."
+      ]
+    },
+    "task2": {
+      "taskNumber": 2,
+      "type": "Discursive Essay (Both Views & Opinion)",
+      "targetMinutes": 40,
+      "minWordCount": 250,
+      "promptTitle": "Artificial Intelligence in Education vs Human Mentorship",
+      "promptText": "Some educational theorists argue that autonomous artificial intelligence systems and adaptive algorithmic tutoring will eventually render human schoolteachers and university professors obsolete. Other commentators maintain that emotional mentorship, moral cultivation, and creative debate cannot be replicated by synthetic algorithms.\n\nDiscuss both these views and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+      "rubricExpectations": {
+        "taskResponse": "Candidate must discuss both perspectives with balanced analytical paragraphs and establish an explicitly sustained personal stance throughout.",
+        "coherenceCohesion": "Candidate must utilize implicit referencing, topic progression, and logical paragraph organization without mechanical discourse-marker over-reliance.",
+        "lexicalResource": "Candidate must demonstrate C1/C2 academic collocations and formal register; zero informal conversational idioms.",
+        "grammaticalRange": "Candidate must deploy complex clauses, inversion, passive voice, and participial phrases with high accuracy."
+      }
+    }
+  },
+  "speakingSection": {
+    "section": "speaking",
+    "totalParts": 3,
+    "durationMinutes": 14,
+    "part1": {
+      "partNumber": 1,
+      "title": "Part 1: Introduction and Familiar Personal Inquiries",
+      "durationMinutes": 4.5,
+      "instructions": "The examiner introduces themselves, verifies the candidate's identification, and asks questions on familiar everyday topics. Candidates should answer fluently for 30–45 seconds per question.",
+      "topics": [
+        {
+          "topicName": "Topic 1: Hometown and Urban Surroundings",
+          "questions": [
+            "What do you appreciate most about the town or neighborhood where you currently reside?",
+            "Has your hometown experienced substantial infrastructural changes in recent years?",
+            "What kind of public amenities would you introduce to improve the quality of life in your locality?",
+            "Do you envision yourself continuing to live in your current city in the long-term future?"
+          ]
+        },
+        {
+          "topicName": "Topic 2: Digital Habits and Organization",
+          "questions": [
+            "How has software or mobile technology altered the way you structure your daily work or studies?",
+            "Do you prefer utilizing digital note-taking applications or traditional paper notebooks?",
+            "Have you ever experienced digital fatigue from excessive screen exposure, and how did you manage it?",
+            "What digital skill do you believe will become indispensable for professionals over the coming decade?"
+          ]
+        },
+        {
+          "topicName": "Topic 3: Communal vs Solitary Study",
+          "questions": [
+            "Do you find yourself more productive studying in complete isolation or in social settings like libraries or coffee shops?",
+            "What environmental factors cause the most disruption when you are attempting to concentrate?",
+            "Did your school teachers encourage collaborative group study or independent revision?",
+            "How do background music or ambient noise influence your cognitive focus?"
+          ]
+        }
+      ]
+    },
+    "part2": {
+      "partNumber": 2,
+      "title": "Part 2: The Individual Long Turn (Cue Card)",
+      "durationMinutes": 3.5,
+      "preparationTimeSeconds": 60,
+      "speechTimeSeconds": 120,
+      "taskCard": {
+        "prompt": "Describe an ambitious personal, professional, or academic project that you completed successfully.",
+        "subPointsToCover": [
+          "What the nature and objective of the project were",
+          "What unforeseen difficulties or logistical obstacles arose during its execution",
+          "How you devised strategic solutions to overcome these challenges",
+          "And explain how you felt when you brought the project to a successful conclusion."
+        ]
+      },
+      "examinerFollowUpQuestions": [
+        "Did you receive any formal recognition or feedback upon delivering this project?",
+        "Would you undertake a similar challenge again under the same timeframe?"
+      ]
+    },
+    "part3": {
+      "partNumber": 3,
+      "title": "Part 3: Two-Way Analytical Discussion",
+      "durationMinutes": 5,
+      "instructions": "The examiner asks probing, abstract questions linked to the thematic umbrella of Part 2 (achievement, ambition, perseverance, and societal definitions of success).",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Why do contemporary post-industrial societies place such an intense premium on measurable, quantifiable career milestones?",
+          "examinerGuidance": "Evaluates candidate's capacity to analyze societal values, socioeconomic pressures, and cultural definitions of status."
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "To what extent does the fear of public failure deter younger generations from pursuing unconventional or entrepreneurial career pathways?",
+          "examinerGuidance": "Tests psychological nuance, sociological observation, and abstract modal phrasing."
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "In complex team environments, is aggressive personal ambition more beneficial or detrimental to overall institutional harmony?",
+          "examinerGuidance": "Assesses balanced evaluation, synthesis of conflicting perspectives, and business vocabulary."
+        },
+        {
+          "questionNumber": 4,
+          "questionText": "How has the definition of 'success' evolved between your grandparents' generation and young adults entering the workforce today?",
+          "examinerGuidance": "Requires historical comparison, temporal discourse markers, and lexical flexibility regarding lifestyle expectations."
+        },
+        {
+          "questionNumber": 5,
+          "questionText": "Should educational systems place greater emphasis on teaching emotional resilience rather than purely academic knowledge?",
+          "examinerGuidance": "Invites philosophical deliberation on the primary developmental mandate of pedagogical institutions."
+        },
+        {
+          "questionNumber": 6,
+          "questionText": "Do you anticipate that artificial intelligence will diminish or amplify human feelings of personal accomplishment in intellectual work?",
+          "examinerGuidance": "Probes speculative prediction, technological foresight, and philosophical register."
+        }
+      ]
+    }
+  }
+}

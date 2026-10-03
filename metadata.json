@@ -1,0 +1,6 @@
+{
+  "name": "VERITAS IELTS — Академия подготовки к IELTS 7.0–8.5+",
+  "description": "Премиальная онлайн-платформа подготовки к IELTS Academic и General Training: ИИ-симулятор устной части, детальный аудит Writing по критериям экзаменаторов, персональный трек и гарантия целевого балла.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
